@@ -37,6 +37,7 @@
 * Classcad: https://classcad.ai/
 * FieldCAD: https://fieldcad.io/
 * GrandpaCAD: https://grandpacad.com/en (this doesn't appear to be a joke, despite the name)
+* Prompt2CAD: https://prompt2cad.com/
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
 * Luphra: https://www.luphra.com/ (prompt-to-matter: prompts/sketches → manufactured physical products)
