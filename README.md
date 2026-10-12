@@ -20,7 +20,7 @@
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
 * NURBgen: https://github.com/SadilKhan/NURBGen
 * Enclose: https://enclose.dev/
-## Startups working on de novo prompt-to-CAD tools
+## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
 * Zoo: https://zoo.dev/zookeeper
@@ -42,6 +42,7 @@
 * Orca CAD: https://orca-cad.com/ (flat pack furniture)
 ## Fellow travelers
 * Hanomi: https://www.hanomi.ai/ (3D CAD to 2D technical drawings)
+* A step-by-step workflow for using Astra with FreeCAD: https://www.geeky-gadgets.com/chatgpt-6-astra-freecad-setup/
 ## Plugins
 * Node to Talk plugin for Blender nodes: https://superhivemarket.com/products/node-to-talk
 ## AI workflow automation assistants📎 for existing tools
