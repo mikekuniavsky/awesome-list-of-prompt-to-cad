@@ -39,6 +39,7 @@
 * GrandpaCAD: https://grandpacad.com/en (this doesn't appear to be a joke, despite the name)
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
+* Luphra: https://www.luphra.com/ (prompt-to-matter: prompts/sketches → manufactured physical products)
 * Orca CAD: https://orca-cad.com/ (flat pack furniture)
 ## Fellow travelers
 * Hanomi: https://www.hanomi.ai/ (3D CAD to 2D technical drawings)
