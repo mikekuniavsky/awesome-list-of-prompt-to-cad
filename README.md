@@ -7,6 +7,7 @@
 * BenchCAD: https://benchcad.github.io/BenchCAD_webpage/ (Paper: https://arxiv.org/abs/2605.10865)
 * Text2CAD-Bench: https://arxiv.org/abs/2605.18430
 * UniCAD: https://arxiv.org/abs/2606.05058
+* CADBench: https://anniedoris.github.io/CADBench/#Leaderboard (not BenchCAD!)
 ## Open Source
 * CADAM: github.com/Adam-CAD/CADAM
 * text-to-cad: https://github.com/earthtojake/text-to-cad
@@ -18,6 +19,7 @@
 * talkCAD: https://github.com/outerreaches/talkcad
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
 * NURBgen: https://github.com/SadilKhan/NURBGen
+* Enclose: https://enclose.dev/
 ## Startups working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
@@ -30,6 +32,11 @@
 * Blueprint: https://www.blueprint.am/
 * CadXStudio: https://cadxstudio.in/
 * ADAM: https://adam.new/
+* Constructor AI: https://constructorai.eu/
+* Formas AI: https://www.formas.ai/
+* Classcad: https://classcad.ai/
+* FieldCAD: https://fieldcad.io/
+* GrandpaCAD: https://grandpacad.com/en (this doesn't appear to be a joke, despite the name)
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
 * Orca CAD: https://orca-cad.com/ (flat pack furniture)
@@ -46,6 +53,7 @@
 * NX Design Copilot: https://www.siemens.com/en-us/products/designcenter/nx-cad-software/ai/
 * Claude for Creative work SketchUp: https://claude.ai/directory/connectors/sketchup
 * Claude for Creative work Autodesk Fusion: https://claude.ai/directory/connectors/ant.dir.gh.autodesk.fusion-mcp
-* Claude for Creative work Blender: https://www.blender.org/lab/mcp-server/ 
+* Claude for Creative work Blender: https://www.blender.org/lab/mcp-server/
+* Raven for Rhino: https://www.raven.build/en
 
 My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
