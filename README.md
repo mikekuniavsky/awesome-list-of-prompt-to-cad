@@ -20,6 +20,7 @@
 * CADCODER model: https://huggingface.co/CADCODER (github repo: https://github.com/anniedoris/CAD-Coder )
 * NURBgen: https://github.com/SadilKhan/NURBGen
 * Enclose: https://enclose.dev/
+* Replicad: https://replicad.xyz/ (a browser wrapper around OpenCascade)
 ## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
@@ -38,6 +39,7 @@
 * FieldCAD: https://fieldcad.io/
 * GrandpaCAD: https://grandpacad.com/en (this doesn't appear to be a joke, despite the name)
 * Prompt2CAD.com: https://prompt2cad.com/
+* Partwright: https://www.partwrightstudio.com/
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
 * Luphra: https://www.luphra.com/ (prompt-to-matter: prompts/sketches → manufactured physical products)
