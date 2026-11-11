@@ -7,7 +7,8 @@
 * BenchCAD: https://benchcad.github.io/BenchCAD_webpage/ (Paper: https://arxiv.org/abs/2605.10865)
 * Text2CAD-Bench: https://arxiv.org/abs/2605.18430
 * UniCAD: https://arxiv.org/abs/2606.05058
-* CADBench: https://anniedoris.github.io/CADBench/#Leaderboard (not BenchCAD!)
+* MIT CADBench: https://anniedoris.github.io/CADBench/#Leaderboard (not BenchCAD!)
+* gNucleus Parametric CADbench: https://cadbench.ai/leaderboard (Not MIT CADBench!) (paper: https://arxiv.org/abs/2611.02659v1)
 ## Open Source
 * CADAM: github.com/Adam-CAD/CADAM
 * text-to-cad: https://github.com/earthtojake/text-to-cad
@@ -21,6 +22,9 @@
 * NURBgen: https://github.com/SadilKhan/NURBGen
 * Enclose: https://enclose.dev/
 * Replicad: https://replicad.xyz/ (a browser wrapper around OpenCascade)
+* texttocad Studio: https://texttocad.studio/
+* Narwhal3D: https://github.com/ContributionRich/Narwhal3D
+* Serpentine3D: https://github.com/chisomobanzi/Serpentine3D
 ## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
