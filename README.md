@@ -9,6 +9,7 @@
 * UniCAD: https://arxiv.org/abs/2606.05058
 * MIT CADBench: https://anniedoris.github.io/CADBench/#Leaderboard (not BenchCAD!)
 * gNucleus Parametric CADbench: https://cadbench.ai/leaderboard (Not MIT CADBench!) (paper: https://arxiv.org/abs/2611.02659v1)
+* brepbench: https://brepbench.org/
 ## Open Source
 * CADAM: github.com/Adam-CAD/CADAM
 * text-to-cad: https://github.com/earthtojake/text-to-cad
@@ -25,6 +26,7 @@
 * texttocad Studio: https://texttocad.studio/
 * Narwhal3D: https://github.com/ContributionRich/Narwhal3D
 * Serpentine3D: https://github.com/chisomobanzi/Serpentine3D
+* BREPcode: https://github.com/RandoTechNerd/BREPcode
 ## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
