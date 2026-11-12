@@ -27,6 +27,7 @@
 * Narwhal3D: https://github.com/ContributionRich/Narwhal3D
 * Serpentine3D: https://github.com/chisomobanzi/Serpentine3D
 * BREPcode: https://github.com/RandoTechNerd/BREPcode
+* Partbuddy: https://partbuddy.github.io/
 ## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
