@@ -27,7 +27,6 @@
 * Narwhal3D: https://github.com/ContributionRich/Narwhal3D
 * Serpentine3D: https://github.com/chisomobanzi/Serpentine3D
 * BREPcode: https://github.com/RandoTechNerd/BREPcode
-* Partbuddy: https://partbuddy.github.io/
 ## Startups and not obviously open source projects working on de novo prompt-to-CAD tools
 * Orville: https://www.ballistalabs.ai/
 * Vibe CAD: https://app.cadxstudio.in/ [dead]
@@ -47,6 +46,7 @@
 * GrandpaCAD: https://grandpacad.com/en (this doesn't appear to be a joke, despite the name)
 * Prompt2CAD.com: https://prompt2cad.com/
 * Partwright: https://www.partwrightstudio.com/
+* Partbuddy: https://partbuddy.github.io/ (built on Solidcraft)
 ## Companies that use AI generated CAD as a core part of their product tech stack
 * Arcade: https://www.arcade.ai/ (housewares)
 * Luphra: https://www.luphra.com/ (prompt-to-matter: prompts/sketches → manufactured physical products)
@@ -67,5 +67,6 @@
 * Claude for Creative work Autodesk Fusion: https://claude.ai/directory/connectors/ant.dir.gh.autodesk.fusion-mcp
 * Claude for Creative work Blender: https://www.blender.org/lab/mcp-server/
 * Raven for Rhino: https://www.raven.build/en
+* AI Chat in SolidCraft: https://github.com/tangency-labs/solidcraft (Solidcraft is an Open Source Onshape clone: https://github.com/tangency-labs/solidcraft )
 
 My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
