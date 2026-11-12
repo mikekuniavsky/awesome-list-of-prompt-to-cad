@@ -69,4 +69,5 @@
 * Raven for Rhino: https://www.raven.build/en
 * AI Chat in SolidCraft: https://github.com/tangency-labs/solidcraft (Solidcraft is an Open Source Onshape clone: https://github.com/tangency-labs/solidcraft )
 
-My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
+* My collection of perhaps-relevant papers on Zotero: https://www.zotero.org/mikekuniavsky/collections/EDKAXFLH/collection
+* *Another* awesome list of AI CAD papers: https://github.com/gudo7208/awesome-ai4cad
