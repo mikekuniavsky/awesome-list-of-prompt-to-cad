@@ -10,6 +10,7 @@
 * MIT CADBench: https://anniedoris.github.io/CADBench/#Leaderboard (not BenchCAD!)
 * gNucleus Parametric CADbench: https://cadbench.ai/leaderboard (Not MIT CADBench!) (paper: https://arxiv.org/abs/2611.02659v1)
 * brepbench: https://brepbench.org/
+* RealCADBench: https://arxiv.org/abs/2609.03773 (not CADBench! Generates FreeCAD)
 ## Open Source
 * CADAM: github.com/Adam-CAD/CADAM
 * text-to-cad: https://github.com/earthtojake/text-to-cad
